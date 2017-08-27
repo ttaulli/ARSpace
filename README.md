@@ -3,4 +3,4 @@ This iOS app uses the new Augmented Reality framework called ARKit. But there ar
 
 Next, you will need to install the beta version of Xcode. You can find it here: https://developer.apple.com/download/
 
-As for the ARSpace app, you can view a 3D representation within your virtual space.
+As for the ARSpace app, you can view a 3D representation of a planet within your virtual space.
